@@ -22,6 +22,7 @@ function getMusicFiles($dir) {
 <html>
 <head>
 	<title>Music I've Recently Enjoyed</title>
+	<link rel="shortcut icon" href="favicon.ico">
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" type="text/css" href="sm2/css/page-player.css" />
 	<link rel="stylesheet" type="text/css" href="sm2/css/flashblock.css">
